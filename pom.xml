@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.statistic</groupId>
-    <artifactId>javaqa_homeworks_7</artifactId>
+    <artifactId>Jacoco</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
